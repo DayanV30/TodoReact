@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TodoReact/static/css/main.478f3bcc.css",
-    "main.js": "/TodoReact/static/js/main.9dc0758a.js",
+    "main.js": "/TodoReact/static/js/main.f267a211.js",
     "index.html": "/TodoReact/index.html",
     "static/media/delete.svg": "/TodoReact/static/media/delete.81bfa594c97bf0cd2d963d571bbab1ec.svg",
     "static/media/check.svg": "/TodoReact/static/media/check.a8cdf5aa2244ebcc87c1905632562fc4.svg",
     "main.478f3bcc.css.map": "/TodoReact/static/css/main.478f3bcc.css.map",
-    "main.9dc0758a.js.map": "/TodoReact/static/js/main.9dc0758a.js.map"
+    "main.f267a211.js.map": "/TodoReact/static/js/main.f267a211.js.map"
   },
   "entrypoints": [
     "static/css/main.478f3bcc.css",
-    "static/js/main.9dc0758a.js"
+    "static/js/main.f267a211.js"
   ]
 }
